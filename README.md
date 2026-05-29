@@ -47,7 +47,7 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 
-```jsx
+```
 import { useState } from "react";
 
 const buttons = [
@@ -106,7 +106,7 @@ export default function Calculator() {
 ```
 
 ### index.css
-```css
+```
 * {
   margin: 0;
   padding: 0;
@@ -192,7 +192,7 @@ button.equal:hover {
 ```
 
 ### App.jsx
-```jsx
+```
 import Calculator from "./Calculator.jsx";
 
 function App() {
